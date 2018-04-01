@@ -50,7 +50,7 @@ echo "Installing category Internet"
 sh AUR/install-dropbox-v*.sh
 #sh AUR/install-insync-v*.sh
 #sh AUR/install-skypeforlinux-stable-bin-v*.sh
-sh AUR/install-vivaldi-v*.sh
+sh AUR/install-google-chrome-v*.sh
 
 
 echo "Installing category Multimedia"
